@@ -1,0 +1,20 @@
+.logo_empresa {
+    width: 120px;
+}
+
+#home-section {
+    background: url(../img/work/35.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.img-fluid-3 {
+    width: 100%;
+    height: auto;
+}
+
+.hr {
+    background-color: #6a6a6a;
+}
