@@ -148,14 +148,15 @@ a, a:hover {
 }
 
 .unslate_co--site-nav {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   position: absolute;
   left: 0;
   font-weight: 400;
   z-index: 1002;
   width: 100%;
   top: 0;
+  background-color: #ffffff87;
 }
 
 .unslate_co--site-nav .container {
@@ -210,7 +211,7 @@ a, a:hover {
   padding: 10px 7px;
   display: block;
   color: #fff;
-  font-size: 14px;
+  font-size: 16px;
   position: relative;
 }
 
@@ -471,12 +472,12 @@ a, a:hover {
   right: 0;
   left: 0;
   top: 0;
-  margin-top: -130px;
+  /* margin-top: -130px; */
   background: #fff !important;
   -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .unslate_co--site-nav.scrolled .burger-toggle-menu {
