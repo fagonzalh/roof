@@ -52,3 +52,11 @@
     justify-content: center;
     column-gap: 40px;
 }
+
+.js-menu-toggle p {
+    margin: 0;
+}
+
+.menu-movil {
+    font-size: 22px !important;
+}
