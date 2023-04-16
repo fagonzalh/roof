@@ -156,7 +156,8 @@ a, a:hover {
   z-index: 1002;
   width: 100%;
   top: 0;
-  background-color: #ffffff87;
+  /* background-color: #ffffff87; */
+  background-color: #5252525c;
 }
 
 .unslate_co--site-nav .container {

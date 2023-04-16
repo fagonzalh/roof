@@ -60,3 +60,11 @@
 .menu-movil {
     font-size: 22px !important;
 }
+
+ul {
+    padding: 0;
+}
+
+.gutter-v3 ul li {
+    list-style: none;
+}
