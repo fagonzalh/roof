@@ -68,3 +68,9 @@ ul {
 .gutter-v3 ul li {
     list-style: none;
 }
+
+
+/* Path: css\estilos.css */
+span.cover {
+    display: none;
+}
